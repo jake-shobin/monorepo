@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <!-- Include Sakai OSS parent, includes information for release management and project information common to all projects --> 
@@ -6,7 +6,7 @@
       <groupId>org.sakaiproject</groupId>
       <artifactId>oss-parent</artifactId>
       <version>1</version>
-      <relativePath></relativePath>
+      <relativePath/>
   </parent>
 
   <!-- Sakai Master defines all property versions and dependencyManagement used in Sakai -->
@@ -63,7 +63,7 @@
     <sakai.spring.data.commons.version>2.3.4.RELEASE</sakai.spring.data.commons.version>
     <sakai.spring.data.jpa.version>2.3.4.RELEASE</sakai.spring.data.jpa.version>
     <sakai.spring.data.rest.version>3.3.4.RELEASE</sakai.spring.data.rest.version>
-    <sakai.spring.security.version>5.2.6.RELEASE</sakai.spring.security.version>
+    <sakai.spring.security.version>5.5.7</sakai.spring.security.version>
     <sakai.spring.hateoas.version>1.1.2.RELEASE</sakai.spring.hateoas.version>
     <sakai.spring.plugin.version>2.0.0.RELEASE</sakai.spring.plugin.version>
     <sakai.tika.version>1.25</sakai.tika.version>
@@ -98,7 +98,7 @@
     <sakai.build.directory>target</sakai.build.directory>
     <maven.test.redirectTestOutputToFile>true</maven.test.redirectTestOutputToFile>
     <!-- Default empty unless profile activation -->
-    <random-source></random-source>
+    <random-source/>
 
     <!-- These should only be updated when the webjars version is updated -->
     <ckeditor.autosave.version>0.18.4</ckeditor.autosave.version>

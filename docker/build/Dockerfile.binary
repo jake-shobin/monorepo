@@ -1,4 +1,4 @@
-FROM tomcat:9.0.20-jre8
+FROM tomcat:9.0.82-jre8
 
 ARG release=19.1
 

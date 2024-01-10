@@ -58,9 +58,9 @@
     "@storybook/addon-a11y": "5.3.19",
     "@storybook/addon-cssresources": "5.3.19",
     "@storybook/addon-knobs": "5.3.19",
-    "@storybook/core": "6.0.16",
+    "@storybook/core": "6.2.0",
     "@storybook/theming": "5.3.19",
-    "@storybook/web-components": "5.3.19",
+    "@storybook/web-components": "6.2.0",
     "babel-loader": "8.1.0",
     "chai": "4.2.0",
     "css-loader": "3.6.0",
@@ -75,7 +75,7 @@
     "raw-loader": "4.0.1",
     "regenerator-runtime": "0.13.7",
     "style-loader": "1.2.1",
-    "webpack": "4.43.0",
+    "webpack": "5.1.1",
     "webpack-cli": "3.3.12"
   }
 }

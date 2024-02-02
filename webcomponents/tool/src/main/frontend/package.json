@@ -38,7 +38,7 @@
     "@ckeditor/ckeditor5-ckfinder": "20.0.0",
     "@ckeditor/ckeditor5-core": "20.0.0",
     "@ckeditor/ckeditor5-dev-utils": "23.0.0",
-    "@ckeditor/ckeditor5-dev-webpack-plugin": "23.0.0",
+    "@ckeditor/ckeditor5-dev-webpack-plugin": "31.1.13",
     "@ckeditor/ckeditor5-easy-image": "20.0.0",
     "@ckeditor/ckeditor5-editor-balloon": "20.0.0",
     "@ckeditor/ckeditor5-editor-classic": "20.0.0",
